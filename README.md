@@ -1,2 +1,2 @@
 # tict-tac-toe
-Python terminal gamr
+Python terminal game
